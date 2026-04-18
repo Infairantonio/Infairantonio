@@ -5,6 +5,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Infairantonio&show_icons=true&theme=tokyonight)
+
 # 👋 Hola, soy Antonio Romero
 
 🚀 Desarrollador Web Junior

@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Antonio%20Romero&fontSize=40&fontColor=ffffff" />
 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
 # 👋 Hola, soy Antonio Romero
 
 🚀 Desarrollador Web Junior

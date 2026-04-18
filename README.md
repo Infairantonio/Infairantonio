@@ -35,17 +35,19 @@ Trabajo como en empresa: proyectos reales, bien estructurados y preparados para 
 
 ## 🚀 Proyectos
 
-### 🌍 Explora Huelva
-Plataforma para descubrir rutas, lugares y experiencias
+## 🚀 Proyectos
 
-<img src="https://via.placeholder.com/600x300" />
+### 🌍 Explora Huelva
+Plataforma para descubrir rutas, lugares y experiencias  
+
+👉 [Ver proyecto](https://explorahuelva.es)
 
 ---
 
 ### 🎬 Portfolio Rafa Romero
-Web profesional con panel de administración y fotobook
+Web profesional con panel de administración y fotobook  
 
-<img src="https://via.placeholder.com/600x300" />
+👉 [Ver proyecto](https://rafaromeroactor.es)
 
 ---
 

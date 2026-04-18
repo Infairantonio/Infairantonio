@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Antonio%20Romero&fontSize=40&fontColor=ffffff" />
+
 # 👋 Hola, soy Antonio Romero
 
 🚀 Desarrollador Web Junior

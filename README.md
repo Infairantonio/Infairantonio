@@ -1,6 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Antonio%20Romero&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">💻 Construyendo proyectos reales con mentalidad profesional</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Desarrollador+Web;Construyendo+proyectos+reales;JavaScript+React+Node.js" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://explorahuelva.es">
+    <img src="https://img.shields.io/badge/Explora%20Huelva-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://rafaromeroactor.es">
+    <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -34,7 +47,7 @@
 ## 🧠 Sobre mí
 
 Soy desarrollador web enfocado en crear aplicaciones modernas, visuales y útiles.
-Trabajo como en empresa: proyectos reales, bien estructurados, escalables y preparados para producción.
+Trabajo con mentalidad profesional: proyectos reales, bien estructurados, escalables y preparados para producción.
 
 💡 Me gusta construir productos que la gente pueda usar de verdad.
 
@@ -57,7 +70,7 @@ Trabajo como en empresa: proyectos reales, bien estructurados, escalables y prep
 
 Plataforma para descubrir rutas, lugares y experiencias en Huelva
 
-👉 **https://explorahuelva.es**
+👉 https://explorahuelva.es
 
 ---
 
@@ -65,7 +78,7 @@ Plataforma para descubrir rutas, lugares y experiencias en Huelva
 
 Web profesional con panel de administración y fotobook
 
-👉 **https://rafaromeroactor.es**
+👉 https://rafaromeroactor.es
 
 ---
 
@@ -86,4 +99,3 @@ Web profesional con panel de administración y fotobook
 <p align="center">
 ✨ Gracias por visitar mi perfil ✨
 </p>
-

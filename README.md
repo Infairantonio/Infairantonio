@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hola, soy Antonio Romero
 
-<!--
-**Infairantonio/Infairantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador Web Junior
+💻 JavaScript | React | Node.js
+📍 Huelva, España
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy desarrollador web enfocado en crear aplicaciones modernas, visuales y útiles.
+Trabajo como en empresa: proyectos reales, bien estructurados y preparados para producción.
+
+---
+
+## 🛠️ Tecnologías
+
+* JavaScript (ES6+)
+* React / Vite
+* Node.js / Express
+* MongoDB / PostgreSQL
+* Docker
+* Git / GitHub
+
+---
+
+## 🚀 Proyectos destacados
+
+🔹 **Explora Huelva**
+Plataforma para descubrir rutas, lugares y experiencias en Huelva
+
+🔹 **Portfolio Rafa Romero**
+Web profesional con panel admin y fotobook
+
+---
+
+## 📫 Contacto
+
+* Email: [tuemail@email.com](mailto:tuemail@email.com)
+
+---
+
+💡 Actualmente buscando oportunidad como desarrollador web junior
